@@ -1,0 +1,83 @@
+﻿Ian Ip “Sam” Sit        
+ss4521@rit.edu        www.linkedin.com/in/sam-sit        (857) 526-8131
+
+EDUCATION        ROCHESTER INSTITUTE OF TECHNOLOGY        Rochester, NY, USA
+        Master’s degree, Computer Science        Expected May 2025
+        Bachelor’s degree, Computing and Information Technologies        May 2023
+        Concentrating on Enterprise Adminstration and Database Applications
+        3.96 cumulative GPA
+
+COURSEWORK        
+* Computer Problem Solving Info Domain I & II
+* Computer Systems Concepts
+* Configuration Management
+* Database Application Development
+* Database Connectivity And Access
+* Database Management And Access
+* Designing The User Experience
+* Discrete Mathematics
+* Information Assurance And Security
+* Information Requirements Modeling
+* Introduction to Routing And Switching
+* Introduction to Statistics I
+* Introduction to Database And Data Modeling
+* Senior Development Project I & II 
+* Systems Administration I & II
+* Task Automation using Interpretive Languages
+* Virtualization
+* Web & Mobile I & II
+PROJECTS        Sam Resume Bot        August 2023 - Present
+* Developed a bot incorporating the same AI as ChatGPT using OpenAI to answer any questions relating to its creator
+        InstaPing, Senior Capstone        August 2022 - Present
+* Developed an Overwolf-based application utilizing Python, JavaScript, TypeScript, CSS, and HTML.
+* Enabled communication between players with various limitations, such as being deaf, mute, lacking a microphone, or having language barriers, by integrating a text chat feature into games lacking native text chat functionality.
+* Implemented voice-guided system (VGS), enabling users to instantly communicate through predefined key combinations; alternatively, can use simple keystrokes
+        A New World Tournament Website, Senior Capstone        August 2022 - May 2023
+* Successfully juggled multiple roles – project manager, scrum manager, system administrator, and quality assurance
+* Simlateously also contributing to front-end development using Tailwind CSS, JavaScript, and HTML
+* Orchestrated the setup and upkeep of web server, storage, and database services on AWS, ensuring seamless functionality.
+        PNC LEARN, PNC L.E.A.D. in CODE Summit        April 2021
+* Led an intern team in a competition which left a positive mark on the judges and claimed the first place and prize
+* Integrated concepts designed in Figma into frontend using Java
+* Created a game that aims to enable adolescents and parents/guardians to collaborate on money management so that adolescents can develop financial responsibility
+        Connect Squares, Computer Problem Solving Info Domain II        March - April 2020
+* Implemented real-time conversation of multiple people using the network from Java
+* Two players game of Connect 4 using Java GUI with the customizability of their pieces
+SKILLS        
+* Software languages: Java, Python, HTML, CSS, Javascript, SQL, Bash, Git, M, DAX
+* Software skills: jGRASP, PyCharm, Visual Studio Code, Unity, MySQL, GitHub, Power BI
+* Other tools: AWS, JIRA, Confluence, Django, Kore.ai
+* Languages: English, American Sign Language, Cantonese, Mandarin, and Japanese
+
+
+EXPERIENCE        The Data Mine – Researcher (Purdue University)        May 2023 - July 2023
+* Designed, implemented, and presented dynamic dashboard utilizing real-world interpreting jobs data which addressed challenges and identified trends using Anvil, Juypter Notebook, DAX, M, and Python to leaders and product owners which impressed and satisfied them
+* Assumed leadership in project, setting precedent as role model. Established document templates, provided clear instructions, and effectively led the team in sprint planning and project
+* Demonstrated commitment by investing more hours than required which resulted in comprehensive project documentation, successful research poster, and custom visualizations with Python in Power BI
+        ICS/NTID Lab – Programming Tutor (RIT/NTID)        September 2022 - Present
+* Provided comprehensive tutoring in Java, Python, HTML, CSS, JavaScript, SQL, Bash, and Git to help students understand class concepts
+* Assisted students in improving their coding skills through one-on-one guidance and feedback
+        PNC Financial Services – Software Engineering Intern (Pittsburgh, PA)        May 2022 - July 2022
+* Designed and implemented a virtual assistant on the Kore.ai platform, delivering the minimum viable product within 2 weeks and refining it further
+* Presented the capstone project to PNC leadership which received high praise
+* Collaborated with an additional full-time team as an intern in additional project on developing a Django application for automated document extraction
+        REU AICT – Research Intern (Washington, D.C.)        May 2021 - July 2021
+* Obtained certification from CITI for human research and conducted research on WebRTC to enhance deaf accessibility
+* Developed the research experiment environment using full-stack development
+* Wrote a research paper based on the findings of the experiment by analyzing and interpreting mass data with statistical techniques
+* Presented progress updates weekly and submitted written reports
+        NTID Student Congress – Director of Finance (RIT/NTID)        January 2021 - July 2021
+* Managed the organization's budget, making strategic decisions to plan and minimize expenses while evaluating budget requests
+* Maintained accurate records of profits and expenses, and provided reports regularly
+        Get Connected! – Assistant (Harvard, MA)        June 2019 - July 2019
+* Repaired old computers by replacing and repairing problematic components and resetting system
+* Set up computers with modern standards by adding newer software and hardware, and optimizing it by changing the default settings
+* Assisted my co-workers with their assigned computers by answering questions and providing demonstrations of how to do a particular step or task needed to repair and set up a computer 
+
+
+ACTIVITIES        
+        Ballroom Dance Club – President (RIT)        August 2020 - August 2022
+* Planned events for people to participate in to learn dances
+* Reserved meeting places, found an instructor and scheduled weekly meetings for dance practice
+* Managed social media accounts
+HONORS	Outstanding Undergraduate Scholar Award  (RIT)	March 2023
